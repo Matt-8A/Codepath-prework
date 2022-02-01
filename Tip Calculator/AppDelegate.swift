@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Prework Tip Calculator
+//  Tip Calculator
 //
-//  Created by Matthew Ochoa on 1/31/22.
+//  Created by Matthew Ochoa on 1/17/22.
 //  Copyright © 2022 Matthew Ochoa. All rights reserved.
 //
 
@@ -42,7 +42,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          application to it. This property is optional since there are legitimate
          error conditions that could cause the creation of the store to fail.
         */
-        let container = NSPersistentContainer(name: "Prework_Tip_Calculator")
+        let container = NSPersistentContainer(name: "Tip_Calculator")
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {
                 // Replace this implementation with code to handle the error appropriately.

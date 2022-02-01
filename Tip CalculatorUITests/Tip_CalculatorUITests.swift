@@ -1,14 +1,14 @@
 //
-//  Prework_Tip_CalculatorUITests.swift
-//  Prework Tip CalculatorUITests
+//  Tip_CalculatorUITests.swift
+//  Tip CalculatorUITests
 //
-//  Created by Matthew Ochoa on 1/31/22.
+//  Created by Matthew Ochoa on 1/17/22.
 //  Copyright © 2022 Matthew Ochoa. All rights reserved.
 //
 
 import XCTest
 
-class Prework_Tip_CalculatorUITests: XCTestCase {
+class Tip_CalculatorUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

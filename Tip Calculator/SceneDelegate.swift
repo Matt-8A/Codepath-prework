@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Prework Tip Calculator
+//  Tip Calculator
 //
-//  Created by Matthew Ochoa on 1/31/22.
+//  Created by Matthew Ochoa on 1/17/22.
 //  Copyright © 2022 Matthew Ochoa. All rights reserved.
 //
 
